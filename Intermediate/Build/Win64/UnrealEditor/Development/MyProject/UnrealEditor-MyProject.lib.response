@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MyProject.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\MyActor.cpp.obj"
+"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\NewActorComponent.cpp.obj"
+"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\BP_timeline.cpp.obj"
+"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\MyProject.cpp.obj"
+"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\BP_timeline.gen.cpp.obj"
+"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\MyActor.gen.cpp.obj"
+"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\MyProject.init.gen.cpp.obj"
+"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\NewActorComponent.gen.cpp.obj"
+"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\Default.rc2.res"
+/OUT:"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\UnrealEditor-MyProject.lib"
