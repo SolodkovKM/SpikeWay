@@ -11,6 +11,8 @@
     <None Include="..\..\Source\MyProjectEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -50,15 +52,6 @@
     <ClInclude Include="..\..\Source\MyProject\MyProject.h">
       <Filter>Source\MyProject</Filter>
     </ClInclude>
-    <Filter Include="Source\MyProject\Private">
-      <UniqueIdentifier>{D2F4842B-BBDC-35B5-85B4-9B71BDE2BA6A}</UniqueIdentifier>
-    </Filter>
-    <ClCompile Include="..\..\Source\MyProject\Private\MyActor.cpp">
-      <Filter>Source\MyProject\Private</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\Source\MyProject\Private\NewActorComponent.cpp">
-      <Filter>Source\MyProject\Private</Filter>
-    </ClCompile>
     <Filter Include="Source\MyProject\Public">
       <UniqueIdentifier>{17AF90F8-BCFF-35EC-B42A-50C00E45B19B}</UniqueIdentifier>
     </Filter>

@@ -7,8 +7,6 @@
 /IGNORE:4221
 /NODEFAULTLIB
 "C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\MyProjectEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
-"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\MyActor.cpp.obj"
-"C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\NewActorComponent.cpp.obj"
 "C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\BP_timeline.cpp.obj"
 "C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\MyProject.cpp.obj"
 "C:\Users\Kost\Documents\Unreal Projects\MyProject\Intermediate\Build\Win64\UnrealEditor\Development\MyProject\BP_timeline.gen.cpp.obj"
